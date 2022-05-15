@@ -106,8 +106,9 @@ refs.btnStart.style =
 height: 50px;
 border-radius: 50%;
 font-size: 15px;
-background-color: pink;
-color: rgb(120 35 150);
+background-color: green;
+color: white;
+cursor: pointer;
 `);
 refs.timer.style = (`font-size: 24px;
 color: rgb(120 35 150);
